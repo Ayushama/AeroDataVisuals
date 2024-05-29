@@ -53,5 +53,23 @@
   9.	**Non-Stop vs. Connecting Flights**: Scatter plot comparing fares for non-stop and connecting flights.
   10.	**Refundable vs. Non-Refundable Fares**: Pie chart comparing refundable and non-refundable fares.
 
+# Dashboard Overview:
+The project comprises three interactive dashboards hosted on Tableau Public, each focusing on different aspects of flight data:
+1. **Flight Trends and Pricing Analysis**:
+  * Tracks and analyzes flight price trends over time.
+  * Visualizes fare distribution by airline and travel duration effects on pricing.
+2.	**Travel Distance and Airport Analysis**:
+  * Compares average vs. total travel distances.
+  * Shows fare trends by starting and destination airports.
+3.	**Route Analysis and Flight Characteristics**:
+  * Examines the effects of different flight routes and characteristics like non-stop vs. connecting flights.
+  * Analyzes distribution by cabin classes.
+These dashboards provide a multi-faceted view of the flight industry, helping users to make informed decisions based on comprehensive data analyses.
+
+# Recommendations:
+Leverage the insights from these dashboards to plan travel more effectively. Monitor price trends and utilize forecast data to secure the best prices for future trips.
+
+# Conclusion:
+This project serves as a detailed resource for understanding and predicting flight prices, offering actionable insights for savvy travel planning. By engaging with our visualizations, users can gain a deeper understanding of the factors that influence flight costs and how they can be managed or exploited for economical travel.
 
 
