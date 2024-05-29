@@ -58,12 +58,21 @@ The project comprises three interactive dashboards hosted on Tableau Public, eac
 1. **Flight Trends and Pricing Analysis**:
   * Tracks and analyzes flight price trends over time.
   * Visualizes fare distribution by airline and travel duration effects on pricing.
+    * View Dashboard: Flight Trends and Pricing Analysis:
+       https://public.tableau.com/app/profile/ayush.aman8026/viz/FlightTrendsAndPricingAnalysis/Dashboard1
+      
 2.	**Travel Distance and Airport Analysis**:
   * Compares average vs. total travel distances.
   * Shows fare trends by starting and destination airports.
+    * View Dashboard: Travel Distance and Airport Analysis:
+        https://public.tableau.com/app/profile/ayush.aman8026/viz/TravelDistanceandAirportAnalysis/Dashboard2
+      
 3.	**Route Analysis and Flight Characteristics**:
   * Examines the effects of different flight routes and characteristics like non-stop vs. connecting flights.
   * Analyzes distribution by cabin classes.
+   * View Dashboard: Route Analysis and Flight Characteristics:
+      https://public.tableau.com/app/profile/ayush.aman8026/viz/RouteAnalysisandFlightCharacteristics/Dashboard3
+     
 These dashboards provide a multi-faceted view of the flight industry, helping users to make informed decisions based on comprehensive data analyses.
 
 # Recommendations:
