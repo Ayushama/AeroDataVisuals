@@ -20,7 +20,7 @@
   * Visualizations that illustrate patterns and predictions in flight pricing.
   * Insights into the factors that influence flight prices.
   * The Tableau source code for the visualizations.
-
+ 
 # Data Exploration: 
 * Load and Explore: The dataset was loaded into Tableau to explore its structure and nuances.
 * Clean and Transform: We addressed missing values and other data imperfections to ensure a clean dataset for analysis.
