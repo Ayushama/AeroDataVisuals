@@ -81,4 +81,7 @@ Leverage the insights from these dashboards to plan travel more effectively. Mon
 # Conclusion:
 This project serves as a detailed resource for understanding and predicting flight prices, offering actionable insights for savvy travel planning. By engaging with our visualizations, users can gain a deeper understanding of the factors that influence flight costs and how they can be managed or exploited for economical travel.
 
+## 👨‍💻 Author
+**Ayush Aman** 
+
 
